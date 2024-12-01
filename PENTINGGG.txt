@@ -5,4 +5,4 @@ username : admin
 password : admin
 
 FRONT-END
-Create akun jika belum punya
+Create akun jika belum punya akun
